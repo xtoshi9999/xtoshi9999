@@ -1,17 +1,17 @@
 <div align="center">
     <p align='center'>
-  <img src='https://github-widgetbox.vercel.app/api/profile?username=xtoshi9999&theme=darkmode&data=followers,repositories,stars,commits' />
+  <img src='https://github-widgetbox.vercel.app/api/profile?username=xtoshi9999&theme=metropolis&data=followers,repositories,stars,commits' />
 </p>
     <img width="1850" height="360" align="center" src="./blockchain.jpg" alt="EvilG-MC"/>
 </div>
 <br/>
 <p align="left">
-    Just call me , a blockchain nerd who loves to tinker with Bitcoin and Solana and occasionally builds trading bots that hopefully make money while I sleep. Maybe I’m not the best at it, but I have fun doing it—and isn’t that what really counts?
+    Just call me 𝐗𝐭𝐨𝐬𝐡𝐢, a blockchain nerd who loves to tinker with Bitcoin and Solana and occasionally builds trading bots that hopefully make money while I sleep. Maybe I’m not the best at it, but I have fun doing it—and isn’t that what really counts?
 </p> 
 
 #### 🌐 𝐁ʟᴏᴄᴋᴄʜᴀɪɴ 𝐍𝐢𝐧𝐣𝐚
 
-- 🎯 Focused on Solana & Bitcoin network development, arbitrage, sniper, and MEV bots.
+- 🎯 Focused on Solana & Bitcoin network development, arbitrage, sniper, copy and MEV bots.
 - 🧠 Creating next-gen AI agents on Solana & Bitcoin with deep on-chain integration.
 - 🌱 Skilled in Full-stack & Web3 development from smart contracts to scalable web apps.
 - 📊 Developing high-performance trading algorithms for real-time market advantage.
